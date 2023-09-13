@@ -42,6 +42,6 @@ It has 447 character, which is weird, so I added a 0 to the first letter to make
 
 6. Now, this is time for the first part `1337`. We xor it with the result from the second part.
 
-![cyberchef_result_3](./write-ups/02.png)
+![cyberchef_result_3](./write-ups/03.png)
 
 7. The result is `tctt2022{QR_15_h1d1n9_50M37H1n9_1mP0R74n7}`
