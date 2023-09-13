@@ -8,7 +8,7 @@
 
 1. Let scan this qr code.
 
-![challenge_image](./challenge.png)
+![challenge_image](./write-ups/challenge.png)
 
 And this is the result.
 
