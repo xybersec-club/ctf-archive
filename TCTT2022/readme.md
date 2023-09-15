@@ -10,6 +10,7 @@
 - Mobile Security
   - [Mobile 01](./Mobile/01/) (with write-ups)
   - [Mobile 02](./Mobile/02/) (with write-ups)
+  - [Mobile 04](./Mobile/04/) (with write-ups)
   - [Mobile 05](./Mobile/05/) (with write-ups)
   - [Mobile 06](./Mobile/06/) (with write-ups)
 - Network Security
