@@ -6,5 +6,6 @@
 - Digital Forensic
 - Mobile Security
 - Network Security
+  - [Network 01](./Network/01/) (with write-ups)
 - Programming
 - Reverse Engineering & Pwnable
