@@ -23,3 +23,5 @@
   - [Programming 04](./Programming/04/) (with write-ups)
 - Reverse Engineering & Pwnable
   - [PWN 04](./PWN/04/) (with write-ups)
+- Web
+  - [Web 01](./Web/01/) (with write-ups)
