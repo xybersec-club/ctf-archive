@@ -6,6 +6,7 @@
 - Digital Forensic
   - [Forensic 02](./Forensic/02/) (with write-ups)
 - Mobile Security
+  - [Mobile 01](./Mobile/01/) (with write-ups)
 - Network Security
   - [Network 01](./Network/01/) (with write-ups)
   - [Network 02](./Network/02/) (with write-ups)

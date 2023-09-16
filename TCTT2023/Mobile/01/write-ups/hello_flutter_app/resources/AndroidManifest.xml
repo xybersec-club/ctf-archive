@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0.0" android:compileSdkVersion="33" android:compileSdkVersionCodename="13" package="com.mc.hello_tctt2023" platformBuildVersionCode="33" platformBuildVersionName="13">
+    <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="33"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <application android:label="hello_tctt2023" android:icon="@mipmap/ic_launcher" android:name="android.app.Application" android:debuggable="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory">
+        <activity android:theme="@style/LaunchTheme" android:name="com.mc.hello_tctt2023.MainActivity" android:exported="true" android:launchMode="singleTop" android:configChanges="fontScale|layoutDirection|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|keyboardHidden|keyboard|locale" android:windowSoftInputMode="adjustResize" android:hardwareAccelerated="true">
+            <meta-data android:name="io.flutter.embedding.android.NormalTheme" android:resource="@style/NormalTheme"/>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <meta-data android:name="flutterEmbedding" android:value="2"/>
+        <uses-library android:name="androidx.window.extensions" android:required="false"/>
+        <uses-library android:name="androidx.window.sidecar" android:required="false"/>
+    </application>
+</manifest>

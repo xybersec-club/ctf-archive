@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="activityAction" format="string">
+    </attr>
+    <attr name="activityName" format="string">
+    </attr>
+    <attr name="alpha" format="float">
+    </attr>
+    <attr name="alwaysExpand" format="boolean">
+    </attr>
+    <attr name="clearTop" format="boolean">
+    </attr>
+    <attr name="finishPrimaryWithSecondary" format="boolean">
+    </attr>
+    <attr name="finishSecondaryWithPrimary" format="boolean">
+    </attr>
+    <attr name="font" format="reference">
+    </attr>
+    <attr name="fontProviderAuthority" format="string">
+    </attr>
+    <attr name="fontProviderCerts" format="reference">
+    </attr>
+    <attr name="fontProviderFetchStrategy">
+        <enum name="blocking" value="0" />
+        <enum name="async" value="1" />
+    </attr>
+    <attr name="fontProviderFetchTimeout" format="integer">
+        <enum name="forever" value="-1" />
+    </attr>
+    <attr name="fontProviderPackage" format="string">
+    </attr>
+    <attr name="fontProviderQuery" format="string">
+    </attr>
+    <attr name="fontProviderSystemFontFamily" format="string">
+    </attr>
+    <attr name="fontStyle">
+        <enum name="normal" value="0" />
+        <enum name="italic" value="1" />
+    </attr>
+    <attr name="fontVariationSettings" format="string">
+    </attr>
+    <attr name="fontWeight" format="integer">
+    </attr>
+    <attr name="nestedScrollViewStyle" format="reference">
+    </attr>
+    <attr name="placeholderActivityName" format="string">
+    </attr>
+    <attr name="primaryActivityName" format="string">
+    </attr>
+    <attr name="queryPatterns" format="reference">
+    </attr>
+    <attr name="secondaryActivityAction" format="string">
+    </attr>
+    <attr name="secondaryActivityName" format="string">
+    </attr>
+    <attr name="shortcutMatchRequired" format="boolean">
+    </attr>
+    <attr name="splitLayoutDirection">
+        <enum name="locale" value="0" />
+        <enum name="ltr" value="1" />
+        <enum name="rtl" value="2" />
+    </attr>
+    <attr name="splitMinSmallestWidth" format="dimension">
+    </attr>
+    <attr name="splitMinWidth" format="dimension">
+    </attr>
+    <attr name="splitRatio" format="float">
+    </attr>
+    <attr name="ttcIndex" format="integer">
+    </attr>
+</resources>
