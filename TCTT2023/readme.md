@@ -9,6 +9,7 @@
   - [Network 01](./Network/01/) (with write-ups)
   - [Network 02](./Network/02/) (with write-ups)
   - [Network 03](./Network/03/) (with write-ups)
+  - [Network 04](./Network/04/) (with write-ups)
   - [Network 05](./Network/05/) (with write-ups)
 - Programming
 - Reverse Engineering & Pwnable
