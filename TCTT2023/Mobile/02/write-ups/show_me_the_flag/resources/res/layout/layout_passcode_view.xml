@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:background="@drawable/bg_circle" android:layout_width="84dp" android:layout_height="84dp" android:layout_marginTop="60dp">
+        <ImageView android:id="@+id/iv_lock" android:layout_width="32dp" android:layout_height="32dp" android:layout_centerInParent="true" app:srcCompat="@drawable/lock"/>
+        <ImageView android:id="@+id/iv_ok" android:layout_width="32dp" android:layout_height="32dp" android:tint="#66e75d" android:layout_centerInParent="true" android:alpha="0" android:scaleX="0" android:scaleY="0" app:srcCompat="@drawable/ic_check_bold_24dp"/>
+    </RelativeLayout>
+    <TextView android:textSize="16sp" android:textColor="#fff" android:layout_gravity="center_horizontal" android:id="@+id/tv_input_tip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16dp"/>
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="18dp" android:layout_marginTop="32dp">
+        <View android:id="@+id/cursor" android:background="#fff" android:visibility="invisible" android:layout_width="2dp" android:layout_height="match_parent"/>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/layout_psd" android:layout_width="wrap_content" android:layout_height="match_parent"/>
+    </FrameLayout>
+    <android.support.v4.widget.Space android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+    <RelativeLayout android:background="@drawable/lock_bg_white" android:padding="48dp" android:layout_width="match_parent" android:layout_height="312dp">
+        <TextView android:id="@+id/number1" android:text="1" android:layout_alignParentLeft="true" style="@style/NumberInPasscode"/>
+        <TextView android:id="@+id/number2" android:text="2" android:layout_centerHorizontal="true" style="@style/NumberInPasscode"/>
+        <TextView android:id="@+id/number3" android:text="3" android:layout_alignParentRight="true" style="@style/NumberInPasscode"/>
+        <TextView android:id="@+id/number4" android:text="4" android:layout_below="@+id/number1" android:layout_alignParentLeft="true" style="@style/NumberInPasscode"/>
+        <TextView android:id="@+id/number5" android:text="5" android:layout_below="@+id/number1" android:layout_centerHorizontal="true" style="@style/NumberInPasscode"/>
+        <TextView android:id="@+id/number6" android:text="6" android:layout_below="@+id/number1" android:layout_alignParentRight="true" style="@style/NumberInPasscode"/>
+        <TextView android:id="@+id/number7" android:text="7" android:layout_below="@+id/number4" android:layout_alignParentLeft="true" style="@style/NumberInPasscode"/>
+        <TextView android:id="@+id/number8" android:text="8" android:layout_below="@+id/number4" android:layout_centerHorizontal="true" style="@style/NumberInPasscode"/>
+        <TextView android:id="@+id/number9" android:text="9" android:layout_below="@+id/number4" android:layout_alignParentRight="true" style="@style/NumberInPasscode"/>
+        <ImageView android:id="@+id/numberB" android:scaleType="centerInside" android:tint="#ff8a8a8a" android:layout_below="@+id/number7" android:layout_alignParentRight="true" app:srcCompat="@drawable/backspace" style="@style/NumberInPasscode"/>
+        <TextView android:id="@+id/number0" android:text="0" android:layout_below="@+id/number7" android:layout_centerHorizontal="true" style="@style/NumberInPasscode"/>
+        <ImageView android:id="@+id/numberOK" android:scaleType="centerInside" android:tint="#ff8a8a8a" android:layout_below="@+id/number7" android:layout_alignParentLeft="true" app:srcCompat="@drawable/ic_check_bold_24dp" style="@style/NumberInPasscode"/>
+    </RelativeLayout>
+</LinearLayout>
