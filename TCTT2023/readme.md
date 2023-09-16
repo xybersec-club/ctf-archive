@@ -25,3 +25,4 @@
   - [PWN 04](./PWN/04/) (with write-ups)
 - Web
   - [Web 01](./Web/01/) (with write-ups)
+  - [Web 02](./Web/02/) (with write-ups)
