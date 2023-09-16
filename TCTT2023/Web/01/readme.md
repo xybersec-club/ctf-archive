@@ -1,4 +1,4 @@
-# Write-ups for TCTT2023/PWN/04
+# Write-ups for TCTT2023/Web/01
 
 ## Flag pattern
 
