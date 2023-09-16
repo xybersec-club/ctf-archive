@@ -6,11 +6,11 @@
 
 ## Challenge Files
 
-[WidgProx.zip](./WidgProx.zip)
+~~[WidgProx.zip](./WidgProx.zip)~~ File is too big
 
 ## Solution
 
-1. From all the files we received, We can see that there is a [docker image](./write-ups/API/vulnerable_api.tar) that we can load.
+1. From all the files we received, We can see that there is a docker image that we can load.
 
 ![docker_01](./write-ups/01.png)
 
