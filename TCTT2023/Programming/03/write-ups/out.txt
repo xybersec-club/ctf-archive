@@ -1,0 +1,3 @@
+Changed database context to 'Northwind'.
+Msg 102, Level 15, State 1, Server 57e3c2e48369, Line 2
+Incorrect syntax near 'Order Details'.
