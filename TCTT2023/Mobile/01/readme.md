@@ -13,7 +13,7 @@
 1. Let decompile the apk file. I prefer to use `jadx`.
 
 ```
-jadx ./challenge.apk
+jadx ./hello_flutter_app.apk
 ```
 
 ![jadx_result](./write-ups/01.png)
