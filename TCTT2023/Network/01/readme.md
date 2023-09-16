@@ -32,7 +32,7 @@ file 16.9b8bb247b8364bfb9a03ed9768c66376.message
 
 ![file_result](./write-ups/05.png)
 
-And we know that it is a png image file.
+And we know that it is a `PNG` image file.
 
 5. We changed the file extension to png.
 
