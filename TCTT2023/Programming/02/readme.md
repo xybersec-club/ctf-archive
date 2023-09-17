@@ -1,4 +1,4 @@
-# Write-ups for TCTT2023/Web/02
+# Write-ups for TCTT2023/Programming/02
 
 ## Flag pattern
 
