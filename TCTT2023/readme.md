@@ -28,4 +28,4 @@
   - [Web 01](./Web/01/) (with write-ups)
   - [Web 02](./Web/02/) (with write-ups)
 
-![](https://komarev.com/ghpvc/?username=xybersec-ctf-archive&style=for-the-badge&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=xybersec-ctf-archive-tctt2023&style=for-the-badge&color=lightgrey&label=TCTT2023+VIEWS)
