@@ -4,7 +4,7 @@
   - [Crypto 01](./Crypto/01/) (with write-ups)
   - [Crypto 06](./Crypto/06/)
 - Digital Forensic
-  - [Forensic 01](./Forensic/01/)
+  - [Forensic 01](./Forensic/01/) (with write-ups)
   - [Forensic 02](./Forensic/02/)
   - [Forensic 03](./Forensic/03/)
 - Mobile Security
